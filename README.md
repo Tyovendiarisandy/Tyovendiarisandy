@@ -5,8 +5,9 @@
 ### Glad to see you here!
 I am a data scientist/analyst enthusiast who has a passion for the world of data. I have work experience in a non-governmental organization that operates in the field of adolescent education and reproductive health. I am very interested in the use and utilization of information technology to answer real problems that exist across sectors. Especially the use of big data for sustainable development. I like to work with a team to solve problems that exist in both business and non-business contexts.
 
-**Don't forget to follow me and give a ⭐ star after seeing my repository!
-Thank You!**
+**Don't forget to follow me ✅ and give a ⭐ star after seeing my repository!**
+
+**👏 Thank You!**
 
 ### Connect With Me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tyovendiarisandy)
