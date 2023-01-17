@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/Tyovendiarisandy/Tyovendiarisandy/blob/master/image/Banner.png)
+![Banner Image](https://github.com/Tyovendiarisandy/Tyovendiarisandy/blob/main/image/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 ## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm [Tyovendi Arisandy](https://github.com/Tyovendiarisandy/)&nbsp;![](https://visitor-badge.glitch.me/badge?page_id=Tyovendiarisandy.Tyovendiarisandy&style=flat-square&color=0088cc)
 
