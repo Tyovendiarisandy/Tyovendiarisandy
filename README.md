@@ -1,6 +1,6 @@
 ![Banner Image](https://github.com/Tyovendiarisandy/Tyovendiarisandy/blob/main/image/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
-## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm [Tyovendi Arisandy](https://github.com/Tyovendiarisandy/)&nbsp;![](https://visitor-badge.glitch.me/badge?page_id=Tyovendiarisandy.Tyovendiarisandy&style=flat-square&color=0088cc)
+## Hi there! I'm [Tyovendi Arisandy](https://github.com/Tyovendiarisandy/)
 
 ### Glad to see you here!
 I am a data scientist/analyst enthusiast who has a passion for the world of data. I have work experience in a non-governmental organization that operates in the field of adolescent education and reproductive health. I am very interested in the use and utilization of information technology to answer real problems that exist across sectors. Especially the use of big data for sustainable development. I like to work with a team to solve problems that exist in both business and non-business contexts.
